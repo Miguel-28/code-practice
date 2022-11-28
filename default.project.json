@@ -19,9 +19,7 @@
       "StarterPlayerScripts": {
         "Client": {
           "$path": "src/client"
-        }
-      },
-      "StarterCharacterScripts": {
+        },
         "LocalScript": {
           "$className": "LocalScript"
         }
